@@ -1,0 +1,30 @@
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\bin\Debug\netstandard2.1\LectorExcel.deps.json
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\bin\Debug\netstandard2.1\LectorExcel.dll
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\bin\Debug\netstandard2.1\LectorExcel.pdb
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.csproj.AssemblyReference.cache
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.AssemblyInfoInputs.cache
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.AssemblyInfo.cs
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.csproj.CoreCompileInputs.cache
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.dll
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\refint\LectorExcel.dll
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.pdb
+C:\Users\alber_w8sgrtb\Desktop\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\ref\LectorExcel.dll
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\bin\Debug\netstandard2.1\LectorExcel.deps.json
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\bin\Debug\netstandard2.1\LectorExcel.dll
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\bin\Debug\netstandard2.1\LectorExcel.pdb
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.csproj.AssemblyReference.cache
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.AssemblyInfoInputs.cache
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.AssemblyInfo.cs
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.csproj.CoreCompileInputs.cache
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.dll
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\refint\LectorExcel.dll
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\LectorExcel.pdb
+C:\Users\52553\Desktop\LectorExcel Hómer\LectorExcel\LectorExcel\LectorExcel\obj\Debug\netstandard2.1\ref\LectorExcel.dll

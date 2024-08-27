@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LectorExcel"
+             x:Class="LectorExcel.MainPage">
+    <Grid>
+        <Image Source="W234.jpg" Aspect="AspectFill" WidthRequest="300" HeightRequest="200" />
+        <StackLayout>
+            <!-- Tu contenido actual, incluido el botón de cargar Excel -->
+            <Button Text="Cargar Excel" Clicked="CargarExcel_Clicked" />
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,70 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3OjnfsoOk9J0VvHCN8yvYQ95LvC0wUyYzh+X8yZK22E40hVZNr2A+uDzB8uqvjF/1/rVeJQO2UEAldMkVLRQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\52553\\Desktop\\LectorExcel Hómer\\LectorExcel\\LectorExcel\\LectorExcel.iOS\\LectorExcel.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52553\\.nuget\\packages\\epplus\\7.0.1\\epplus.7.0.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\epplus.interfaces\\6.1.1\\epplus.interfaces.6.1.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\epplus.system.drawing\\6.1.1\\epplus.system.drawing.6.1.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.32\\microsoft.extensions.configuration.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.32\\microsoft.extensions.configuration.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.32\\microsoft.extensions.configuration.fileextensions.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.32\\microsoft.extensions.configuration.json.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.32\\microsoft.extensions.fileproviders.abstractions.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.32\\microsoft.extensions.fileproviders.physical.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.32\\microsoft.extensions.filesystemglobbing.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.32\\microsoft.extensions.primitives.3.1.32.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\microsoft.io.recyclablememorystream\\2.3.2\\microsoft.io.recyclablememorystream.2.3.2.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\patget.zxing.net.mobile\\99.0.1\\patget.zxing.net.mobile.99.0.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\patget.zxing.net.mobile.forms\\99.0.2\\patget.zxing.net.mobile.forms.99.0.2.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.memory\\4.5.2\\system.memory.4.5.2.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.text.encoding.codepages\\4.7.1\\system.text.encoding.codepages.4.7.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Essentials de 1.8.0 a 1.7.0. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n LectorExcel.iOS -> LectorExcel -> Xamarin.Essentials (>= 1.8.0) \r\n LectorExcel.iOS -> Xamarin.Essentials (>= 1.7.0)",
+      "libraryId": "Xamarin.Essentials",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 5.0.0.2622 a 5.0.0.2196. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n LectorExcel.iOS -> LectorExcel -> Xamarin.Forms (>= 5.0.0.2622) \r\n LectorExcel.iOS -> Xamarin.Forms (>= 5.0.0.2196)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-arm64",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
